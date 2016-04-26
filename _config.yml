@@ -1,0 +1,40 @@
+name: Alex Ortiz-Rosado 
+description: Software. DevOps. Ministry.
+meta_description: "Alex Ortiz-Rosado's Personal Space on the Internet."
+
+aboutPage: true
+
+# markdown: redcarpet
+# highlighter: pygments
+
+baseurl: /
+domain_name: 'http://alexortizrosado.com'
+google_analytics: 'UA-77007201-1'
+disqus_shortname: 'alexortizrosado'
+
+# Details for the RSS feed generator
+url:            'http://alexortizrosado.com'
+author:         'Alex Ortiz-Rosado'
+authorTwitter:  'alexortizrosado'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
