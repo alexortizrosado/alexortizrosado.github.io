@@ -3,8 +3,8 @@
   <channel>
     <title>Alex Ortiz-Rosado</title>
     <description>Software Developer</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://alexortizrosado.com</link>
+    <atom:link href="http://alexortizrosado.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -16,8 +16,8 @@ To add new posts, simply add a file in the &lt;code class=&quot;highlighter-roug
 </description>
         
         <pubDate>Sun, 10 Nov 2013 02:18:00 -0800</pubDate>
-        <link>http://localhost:4000/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/welcome-to-jekyll/</guid>
+        <link>http://alexortizrosado.com/2013/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://alexortizrosado.com/2013/welcome-to-jekyll/</guid>
       </item>
     
   </channel>
